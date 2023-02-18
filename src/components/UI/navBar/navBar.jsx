@@ -7,7 +7,7 @@ const navBar = () => {
         <Link to={'/about'}>About</Link>
         <Link to={'/posts'}>Post</Link>
         <Link to={'/student'}>Student page</Link>
-        <Link to={'/pag'}>page</Link>
+        <Link to={'Studenttt'}>page</Link>
       </nav>
   )
 }

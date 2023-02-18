@@ -34,29 +34,3 @@
 .post-enter {
     opacity: 0;
 }
-
-.post-enter-active {
-    opacity: 1;
-    transition: all 500ms ease-in;
-}
-
-.post-exit {
-    opacity: 1;
-}
-
-.post-exit-active {
-    opacity: 0;
-    transition: opacity 500ms ease-in;
-}
-
-nav{
-
-    width: 100%;
-    background-color: brown;
-}
-nav a{
-   font-size: 12px;
-   color: #fff;
-   text-decoration: none;
-    margin-right: 10px;
-}
